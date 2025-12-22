@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Hyperfocus",
+  "version": "1.0",
+  "description": "Enter flow state. Track year-end countdown and manage tasks.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  }
+}
