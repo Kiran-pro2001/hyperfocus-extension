@@ -69,7 +69,7 @@ To sync your tasks, you need to link a Google Sheet.
 
 Need a custom feature or want to connect?
 
-*   **Developer:** Kiran Kumar
+*   **Developer:** Er. Kiran Kumar
 *   **Email:** kk9840042@gmail.com
 *   **LinkedIn:**  <a href="https://www.linkedin.com/in/kiran-kumar-sde/">Kiran Kumar</a>
 >
