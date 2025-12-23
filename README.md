@@ -15,7 +15,7 @@ Hyperfocus is a Chrome Extension designed to replace your new tab page with a hi
 ![Dashboard Preview](media/hyperfocus_web.png)
 
 > **🎥 Watch the Demo:**
-> [Click here to watch the setup guide and demo video](media/hyperfocus_demo.mov)
+> [![Hyperfocus Demo](https://img.youtube.com/vi/L6M4wVhBV1Q/0.jpg)](https://youtu.be/L6M4wVhBV1Q)
 
 ## �🚀 Features
 
