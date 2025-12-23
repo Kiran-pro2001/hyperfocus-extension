@@ -12,7 +12,7 @@ Hyperfocus is a Chrome Extension designed to replace your new tab page with a hi
     2. Upload your 'screenshot.png' and 'demo.mp4' files there.
 -->
 
-![Dashboard Preview](media/screenshot.png)
+![Dashboard Preview](../hyperfocus-extension/media/hyperfocus_web.png)
 
 > **🎥 Watch the Demo:**
 > [Click here to watch the setup guide and demo video](media/demo.mp4)
